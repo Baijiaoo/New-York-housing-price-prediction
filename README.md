@@ -2,9 +2,9 @@
 This is a prediction project for New York housing price prediction by applying Machine Learning Algorithm
 
 ## Document
-* **nyc_rolling_sales.csv** is the data used in this project, in this data we want to do prediction about the missing values in the 
-  column of **SALE_PRICE**
-* **Version - 1.0.1.ipynb** is this project report demo and coding explaination
+* **_nyc_rolling_sales.csv_** is the data used in this project, in this data we want to do prediction about the missing values in the 
+  column of **_SALE_PRICE_**
+* **_Version-1.0.1.ipynb_** is this project report demo and coding explaination
 * I will keep updating this project/algorithm & making code packagble
 
 
