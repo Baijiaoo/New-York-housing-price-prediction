@@ -1,5 +1,5 @@
 # New-York-housing-price-prediction
-This is a prediction project for New York housing price prediction by applying Machine Learning Algorithm (Ridge Regression & )
+This is a prediction project for New York housing price prediction by applying Machine Learning Algorithm (Ridge Regression & Random Forest)
 
 ## Document
 * **_nyc_rolling_sales.csv_** is the data used in this project, in this data we want to do prediction about the missing values in the 
