@@ -40,4 +40,4 @@ This is a prediction project for New York housing price prediction by applying M
   * Applytin Random_Forest & Cross_Validation to findout the minimum error
   * Samply Bagging two models, weights = 50%+50%
 * Result
-  * ![link](https://github.com/Baijiaoo/New-York-housing-price-prediction/blob/master/Version%20-%201.0.1.ipynb)
+  * [Result of .ipynb](https://github.com/Baijiaoo/New-York-housing-price-prediction/blob/master/Version%20-%201.0.1.ipynb)
